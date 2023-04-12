@@ -1,7 +1,5 @@
 ### <div align="center">👋🏻 Салем, I'm Yerassyl, a Backend Software developer, with good enough front-end skills.</div>  
   
-
-- 🔭 I’m currently working at [Bookmate](https://bookmate.com)  
   
 
 <br/>  
