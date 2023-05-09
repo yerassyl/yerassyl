@@ -1,4 +1,4 @@
-### <div align="center">👋🏻 Салем, I'm Yerassyl, a Backend Software developer, with good enough front-end skills.</div>  
+### <div align="center">👋🏻 Салем, I'm Yerassyl</div>  
   
   
 
