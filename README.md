@@ -1,8 +1,6 @@
 ### <div align="center">👋🏻 Салем, I'm Yerassyl</div>  
 <br/>  
 
-- 🔭 I’m currently working as Backend Developer at [Bookmate](https://bookmate.com)  
-
 
 ## Tools
 <table><tr><td valign="top" width="40%">
